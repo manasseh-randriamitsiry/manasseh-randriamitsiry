@@ -50,14 +50,14 @@ Here's the English translation:
 
 ## KNOWLEDGE
 
-- **Project Management**
-- **Problem Solving**
-- **Creativity**
+- **Project Management [4/5]**
+- **Problem Solving [4/5]**
+- **Creativity[4/5]**
 
 ## LANGUAGE PROFICIENCY
 
-- **French**
-- **English**
+- **French [3/5]**
+- **English[4/5]**
 
 ## HOBBIES
 
@@ -109,14 +109,14 @@ Here's the English translation:
 
 ## CONNAISSANCES
 
-- **Management de Projet**
-- **Résolution de problèmes**
-- **Créativité**
+- **Management de Projet [4/5]**
+- **Résolution de problèmes [4/5]**
+- **Créativité [4/5]**
 
 ## CONNAISSANCES LINGUISTIQUES
 
-- **Français**
-- **Anglais**
+- **Français [3/5]**
+- **Anglais [4/5]**
 
 ## LOISIRS
 
