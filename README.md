@@ -18,7 +18,7 @@
 
 Here's the English translation:
 
-- **Design and Development of applications with Dart (Permah[api_wordpress,flutter], Time Master, Fihirana JFF[firebase], this portfolio)** (Flutter)
+- **Design and Development of applications with Dart (Permah[api_wordpress,flutter], Time Master, Fihirana JFF[firebase], porfolio)** (Flutter)
 - **App Development with React-Native**
 - **Grade Management LJSA Ambalavao** (JavaFx, Symfony,twig)
 - **App development with SpingnBoot** (Spring Boot, jsp, mysql)
@@ -77,7 +77,7 @@ Here's the English translation:
 
 ## FORMATIONS ET EXPÉRIENCES
 
-- **Design et Developpement des applications avec Dart (Permah [api_wordpress,flutter], maitre de temps,  Fihirana jff [firebase], ce porfolio )** (Flutter)
+- **Design et Developpement des applications avec Dart (Permah [api_wordpress,flutter], maitre de temps,  Fihirana jff [firebase], porfolio )** (Flutter)
 - **Développement d'application avec React-Native**
 - **Gestion des notes LJSA Ambalavao** (JavaFX, Symfony, Twig)
 - **Développement d'application avec Spring Boot** (Spring Boot, JSP, MySQL)
