@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manasseh-randriamitsiry
-- 👀 I’m interested in Angular and Java
-- 🌱 I’m currently learning Java and Angular
-- 💞️ I’m looking to collaborate on my angular and java project
+- 👀 I’m interested in Angular, java, node, flutter, symfony
+- 🌱 I’m currently learning new things
+- 💞️ I’m looking to collaborate on project
 - 📫 Just send an email if you want to reach me
 
 # PROFILE
