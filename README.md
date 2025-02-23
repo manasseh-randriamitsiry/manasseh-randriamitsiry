@@ -10,7 +10,7 @@ Passionate **FullStack Developer** with expertise in **Flutter, Symfony, and Rea
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### 🏆 **Freelance Flutter Developer** (2024 - Present)
 - Developing Flutter applications following **MVVM architecture**.
