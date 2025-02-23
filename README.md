@@ -2,7 +2,7 @@
 📍 **Fianarantsoa, Madagascar**  
 📧 **Email:** manassehrandriamitsiry@gmail.com  
 📞 **Phone:** +261 34 29 439 71  
-🔗 **LinkedIn:** [Manasseh Randriamitsiry](https://www.linkedin.com/in/manasseh-randriamitsiry)
+🔗 **LinkedIn:** [Manasseh Randriamitsiry](https://www.linkedin.com/in/manasseh-randriamitsiry-2b76821b6)
 
 ## 🚀 FullStack Developer | Specialized in Web & Mobile (Flutter, Symfony, React)
 
@@ -73,7 +73,7 @@ Passionate **FullStack Developer** with expertise in **Flutter, Symfony, and Rea
 
 📧 **Email:** manassehrandriamitsiry@gmail.com  
 📞 **Phone:** +261 34 29 439 71  
-🔗 **LinkedIn:** [Manasseh Randriamitsiry](https://www.linkedin.com/in/manasseh-randriamitsiry)
+🔗 **LinkedIn:** [Manasseh Randriamitsiry](https://www.linkedin.com/in/manasseh-randriamitsiry-2b76821b6)
 
 ---
 
