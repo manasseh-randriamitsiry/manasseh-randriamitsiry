@@ -1,123 +1,80 @@
-- 👋 Hi, I’m @manasseh-randriamitsiry
-- 👀 I’m interested in Angular, java, node, flutter, symfony
-- 🌱 I’m currently learning new things
-- 💞️ I’m looking to collaborate on project
-- 📫 Just send an email if you want to reach me
+# 👨‍💻 Randriamitsiry Valimbavaka Manassé
+📍 **Fianarantsoa, Madagascar**  
+📧 **Email:** manassehrandriamitsiry@gmail.com  
+📞 **Phone:** +261 34 29 439 71  
+🔗 **LinkedIn:** [Manasseh Randriamitsiry](https://www.linkedin.com/in/manasseh-randriamitsiry)
 
-# PROFILE
+## 🚀 FullStack Developer | Specialized in Web & Mobile (Flutter, Symfony, React)
 
-**DEVELOPER**  
-**RANDRIAMITSIRY Valimbavaka Nandrasana Manassé**
+Passionate **FullStack Developer** with expertise in **Flutter, Symfony, and React**. I specialize in building scalable, high-quality applications while following best coding practices, including **MVVM architecture** and **unit testing**.
 
-**Address**: Ambalavao 303, LOT: IVG-23-O Tanambao  
-**Email**: manassehrandriamitsiry@gmail.com  
-**Phone**: +261 34 29 439 71  
-**GitHub**: [GitHub Profile](https://github.com/manasseh-randriamitsiry)
+---
 
-## EDUCATION AND EXPERIENCE
+## 💼 Professional Experience
 
-Here's the English translation:
+### 🏆 **Freelance Flutter Developer** (2024 - Present)
+- Developing Flutter applications following **MVVM architecture**.
+- Implementing **unit tests** to ensure software quality.
 
-- **Design and Development of applications with Dart (Permah[api_wordpress,flutter], Time Master, Fihirana JFF[firebase], porfolio)** (Flutter)
-- **App Development with React-Native**
-- **Grade Management LJSA Ambalavao** (JavaFx, Symfony,twig)
-- **App development with SpingnBoot** (Spring Boot, jsp, mysql)
-- **Car Rental Management** (Angular, ExpressJS)
-- **Library Management** (PHP)
+### 🏢 **Internship at Gasikara Digital** (07/2024 - 12/2024)
+- Developed an **event management application** using:
+    - **Symfony** (Backend)
+    - **React** (Frontend)
+    - **Flutter** (Mobile)
+    - **Docker** for containerization
 
-## IT SKILLS
+### 🏢 **Internship at LJSA** (10/2022 - 12/2022)
+- Developed a **grade management application** using:
+    - **Symfony + MySQL + JavaFX**
 
-### LANGUAGES:
-- PHP, TWIG, PYTHON, JAVA, C, C++, SQL, DART, JAVASCRIPT
+### 🏢 **Internship at AMJ** (05/2019 - 07/2019)
+- Created a **library management system** using:
+    - **PHP + MySQL**
 
-### FRAMEWORKS:
-- SYMFONY, DJANGO, FLUTTER, ANGULAR, REACT, EXPRESSJS
+---
 
-### FAMILIARITY WITH:
-- GIT, MVC, Agile Scrum
+## 🎓 Education
 
-### TOOLS AND OPERATING SYSTEMS:
-- Windows, Linux, MacOS (High Sierra, Catalina)
-- VSCode, Apache Netbeans, Microsoft Word, Photoshop, Adobe XD, Intellij Products, Canva
+### 🎓 **Master's Degree in Computer Science** (2022 - 2024)
+📍 **ENI Fianarantsoa**
+- Earned a **Master's Degree in Computer Science**.
 
-## EDUCATION
+### 🎓 **Bachelor's Degree in Computer Science** (2018 - 2022)
+📍 **ENI Fianarantsoa**
+- Earned a **Bachelor's Degree in Computer Science**.
 
-- **2018 - 2019**: 1st year in Professional Bachelor's degree
-- **2019 - 2020**: 2nd year in Professional Bachelor's degree
-- **2021 - 2022**: 3rd year in Professional Bachelor's degree
-- **2022 - 2023**: 1st year in Professional Master's degree
-- **2023 - 2024**: 2nd year in Professional Master's degree
+---
 
-## KNOWLEDGE
+## 🛠️ Technical Skills
 
-- **Project Management [4/5]**
-- **Problem Solving [4/5]**
-- **Creativity[4/5]**
+### **Programming Languages:**
+✅ PHP, Python, Java, C, C++, SQL, Dart, Rust, JavaScript, Swift
 
-## LANGUAGE PROFICIENCY
+### **Frameworks & Libraries:**
+✅ Symfony, Django, Flutter, Angular, React, Express.js, React Native, Spring Boot
 
-- **French [3/5]**
-- **English[4/5]**
+### **Tools & DevOps:**
+✅ Git, Docker, Kubernetes, Firebase, CI/CD
 
-## HOBBIES
+### **Methodologies:**
+✅ Agile Scrum, MVC, MVVM
 
-- Mobile games, playing an instrument
+---
 
-### Frech version
+## 🌍 Languages
 
-# PROFIL
+- **English:** Good understanding, spoken and written
+- **French:** Good understanding, spoken and written
+- **Malagasy:** Native language
 
-**DÉVELOPPEUR**  
-**RANDRIAMITSIRY Valimbavaka Nandrasana Manassé**
+---
 
-**Adresse**: Ambalavao 303, LOT: IVG-23-O Tanambao  
-**Email**: manassehrandriamitsiry@gmail.com  
-**Téléphone**: +261 34 29 439 71  
-**GitHub**: [Profil GitHub](https://github.com/manasseh-randriamitsiry)
+## 📩 Contact
 
-## FORMATIONS ET EXPÉRIENCES
+📧 **Email:** manassehrandriamitsiry@gmail.com  
+📞 **Phone:** +261 34 29 439 71  
+🔗 **LinkedIn:** [Manasseh Randriamitsiry](https://www.linkedin.com/in/manasseh-randriamitsiry)
 
-- **Design et Developpement des applications avec Dart (Permah [api_wordpress,flutter], maitre de temps,  Fihirana jff [firebase], porfolio )** (Flutter)
-- **Développement d'application avec React-Native**
-- **Gestion des notes LJSA Ambalavao** (JavaFX, Symfony, Twig)
-- **Développement d'application avec Spring Boot** (Spring Boot, JSP, MySQL)
-- **Gestion de Location de Voitures** (Angular, ExpressJS,MySQL)
-- **Gestion de Bibliothèque** (PHP,MySQL)
+---
 
-## COMPÉTENCES EN INFORMATIQUE
-
-### LANGAGES :
-- PHP, TWIG, PYTHON, JAVA, C, C++, SQL, DART, JAVASCRIPT
-
-### FRAMEWORKS :
-- SYMFONY, DJANGO, FLUTTER, ANGULAR, REACT, EXPRESSJS
-
-### FAMILIARITÉ AVEC :
-- GIT, MVC, Agile Scrum
-
-### OUTILS ET SYSTÈMES D'EXPLOITATION :
-- Windows, Linux, MacOS (High Sierra, Catalina)
-- VSCode, Apache Netbeans, Microsoft Word, Photoshop, Adobe XD, Produits Intellij, Canva
-
-## ÉDUCATION
-
-- **2018 - 2019**: 1ère année en Formation de Licence Professionnelle
-- **2019 - 2020**: 2ème année en Formation de Licence Professionnelle
-- **2021 - 2022**: 3ème année en Formation de Licence Professionnelle
-- **2022 - 2023**: 1ère année en Formation de Master Professionnelle
-- **2023 - 2024**: 2ème année en Formation de Master Professionnelle
-
-## CONNAISSANCES
-
-- **Management de Projet [4/5]**
-- **Résolution de problèmes [4/5]**
-- **Créativité [4/5]**
-
-## CONNAISSANCES LINGUISTIQUES
-
-- **Français [3/5]**
-- **Anglais [4/5]**
-
-## LOISIRS
-
-- Jeux mobiles, jouer un instrument
+### 🏆 Let's build something great together! 🚀
