@@ -58,9 +58,9 @@
 
 ## 🐍 Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/manasseh-randriamitsiry/manasseh-randriamitsiry/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/manasseh-randriamitsiry/manasseh-randriamitsiry/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/manasseh-randriamitsiry/manasseh-randriamitsiry/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manasseh-randriamitsiry/manasseh-randriamitsiry/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manasseh-randriamitsiry/manasseh-randriamitsiry/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/manasseh-randriamitsiry/manasseh-randriamitsiry/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ## 💼 Experience
