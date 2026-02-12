@@ -42,7 +42,14 @@
 
 ## 💼 Experience
 
-### 🏆 **Freelance Flutter Developer** (2024 - Present)
+
+### 🏆 **Fullstack Developer at Digital Concepts Mauritius** (Jan 2026 - Present)
+- Mobile Developer: Transforming UI/UX designs into mobile applications, integrating
+backend APIs, performing unit and integration testing, and implementing CI/CD
+pipelines.
+- Symfony Developer.
+
+### 🏆 **Freelance Flutter Developer** (2025 - Present)
 - Developing Flutter applications following **MVVM architecture**
 - Implementing **unit tests** to ensure software quality
 
